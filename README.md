@@ -27,17 +27,11 @@ python 3.7.7
 apex 0.1
 
 bert-score 0.3.4
-
 BLEURT 0.0.1
-
 nltk 3.4.5
-
 rouge 1.0.0
-
 torch 1.4.0
-
 torchtext 0.5.0
-
 transformers 2.8.0
 `
 

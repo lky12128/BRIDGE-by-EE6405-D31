@@ -31,6 +31,7 @@ rouge 1.0.0
 torch 1.4.0
 torchtext 0.5.0
 transformers 2.8.0
+```
 
 ## Project Scope
 This project follows a 4-week implementation plan for the project from topic selection to Demo delivery.

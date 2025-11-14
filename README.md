@@ -22,10 +22,9 @@ The project supports multiple datasets for training and testing. Click the datas
 
 ### Dependency
 `
-python 3.7.7
+`python 3.7.7`
 
-apex 0.1
-
+`apex 0.1`
 bert-score 0.3.4
 BLEURT 0.0.1
 nltk 3.4.5
